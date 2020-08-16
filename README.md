@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Accio facts!
 
+[![linkedin badge](https://img.shields.io/badge/linkedin-ankushjain2001-0077b5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankushjain2001/) 
