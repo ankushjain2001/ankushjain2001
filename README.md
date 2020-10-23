@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 
 -->
 - 🔭 I’m currently working on some fun ML & NLP use-cases like Q&A, text classification, and natural language search
-- 💬 Ask me about Machine Learning, NLP, Exaplainable AI, and Neural Networks
+- 💬 Ask me about Machine Learning, NLP, and Neural Networks
 - 🌱 I’m currently learning FastAPI & ReactJS
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Accio facts! 😉
